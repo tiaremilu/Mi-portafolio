@@ -1,0 +1,20 @@
+body {
+	width: 500px;
+	height: 300px;
+	background-image: url(fondo1.jpg);
+    background-repeat: no-repeat;
+}
+h1, h2{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: darkorange;
+    text-align: center;
+    
+}
+.texto{
+    width: 50%;
+    position: absolute;
+    right: 0;
+    }
+
+

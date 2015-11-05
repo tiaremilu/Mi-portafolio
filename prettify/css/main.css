@@ -1,0 +1,126 @@
+* {
+	font-family: 'Oswald', serif;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 48px;
+}
+h2 {
+  font-size: 32px;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  border-bottom: 1px solid #434A5C;
+  background: #ffffff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index:1000;
+}
+.menu li {
+  display: inline-block;
+  padding: 20px 35px;
+}
+.menu a {
+  text-decoration: none;
+  color: #333333;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+
+.banner {
+	background: url("../images/background.jpg");
+	width: 100%;
+	min-height: 400px;
+	margin-bottom: 60px;
+}
+
+.banner .col-12 {
+	text-align: center;
+	color: #FFF;
+	font-weight: bold;
+	padding-top: 120px;
+}
+
+.banner .col-12 h1 {
+	font-size: 3em;
+}
+
+.banner .col-12 p {
+	font-size: 2em;
+}
+
+.about {
+	margin-bottom: 80px;
+}
+
+.about h2 {
+	text-align: center;
+	margin: 20px 0px 30px 0px;
+	color: #8f03e3;
+}
+
+.about .profile {
+	float: left;
+	width: 180px;
+	margin: 0px 20px 20px 0px;
+	border: 1px solid #000;
+}
+
+.about p {
+	font-size: 90%;
+}
+
+.favourites {
+	margin: 30px 0px 20px;
+}
+
+.favourites h2 {
+	color: #8f03e3;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.favourites h3 {
+	margin: 10px 0px 30px;
+	color: #8f03e3;
+	text-align: center;
+}
+
+.favourites .thumb {
+	border-radius: 50%;
+	border: 2px solid #8f03e3;
+	padding: 4px;
+}
+
+.favourites .favourite {
+	border-radius: 50%;
+	width: 100%;
+	display: block;
+	height: auto;
+}
+
+.contact {
+  text-align: center;
+  background: url('../images/tile2.png');
+}
+
+.contact h2 {
+	color: #8f03e3;
+	margin: 100px 0px 30px;
+}
+
+.contact img {
+  margin: 20px;
+}

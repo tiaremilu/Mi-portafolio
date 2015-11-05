@@ -1,0 +1,54 @@
+body,
+html{
+	width: 100%;
+	height: 100%;}
+
+.btn-sumate{
+	width: 11%;
+	height: 9%;
+	color: black;
+	text-align: center;
+	background-color: #CCFF33;
+	padding: 2%;
+	margin-top: 5%;position: fixed;
+	position: fixed;}
+
+.hero-image{
+	width: 100%;
+	height: 100%;
+	background-image: url("../img/grupal.jpg");
+	background-size: cover;}
+
+.logo-header{
+	text-align: center;
+	margin-top: 15%;}
+
+.logo-header img{
+	width: 100%;
+	height: 100%;}
+
+/*menu*/
+
+nav{
+	margin-top: 17%;}
+
+nav a{
+	text-decoration: none;
+	color: black;
+	margin: 3%;}
+
+.grid {
+	margin: 5% 0%;}
+
+
+.conceptos img{
+	width: 100%;}
+
+.grid h3{
+	
+	text-align: left;}
+
+footer {
+	background-color: #CCFF33 ;
+	padding: 2% 0%;
+	color: black;}
